@@ -1,2 +1,3 @@
-# gemini-delete
-Bulk gemini chat delete that delete through console
+# Ai Chat  delete
+Bulk Ai chat deleter that delete chats through console 
+
